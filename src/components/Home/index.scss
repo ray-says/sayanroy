@@ -1,6 +1,7 @@
 @import "~bootstrap/scss/functions";
 .home-page {
   user-select: none;
+  overflow: auto;
   
   .text-zone {
     position: absolute;
