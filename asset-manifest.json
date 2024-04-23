@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sayanroy/static/css/main.c51993f9.css",
+    "main.css": "/sayanroy/static/css/main.b8a5bc64.css",
     "main.js": "/sayanroy/static/js/main.5245c5ee.js",
     "static/js/453.5278e212.chunk.js": "/sayanroy/static/js/453.5278e212.chunk.js",
     "static/media/profile_pic.png": "/sayanroy/static/media/profile_pic.4187a751fc31c7c9fbea.png",
@@ -10,12 +10,12 @@
     "static/media/logo_sub.png": "/sayanroy/static/media/logo_sub.e9f05e519e301a99dd38.png",
     "static/media/CoolveticaRg-Regular.woff2": "/sayanroy/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/sayanroy/index.html",
-    "main.c51993f9.css.map": "/sayanroy/static/css/main.c51993f9.css.map",
+    "main.b8a5bc64.css.map": "/sayanroy/static/css/main.b8a5bc64.css.map",
     "main.5245c5ee.js.map": "/sayanroy/static/js/main.5245c5ee.js.map",
     "453.5278e212.chunk.js.map": "/sayanroy/static/js/453.5278e212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c51993f9.css",
+    "static/css/main.b8a5bc64.css",
     "static/js/main.5245c5ee.js"
   ]
 }
