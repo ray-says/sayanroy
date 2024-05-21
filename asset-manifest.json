@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sayanroy/static/css/main.fa0a8ccf.css",
-    "main.js": "/sayanroy/static/js/main.ee378036.js",
-    "static/js/453.5278e212.chunk.js": "/sayanroy/static/js/453.5278e212.chunk.js",
+    "main.css": "/sayanroy/static/css/main.484ea077.css",
+    "main.js": "/sayanroy/static/js/main.02ae3a72.js",
+    "static/js/453.c6583fcb.chunk.js": "/sayanroy/static/js/453.c6583fcb.chunk.js",
     "static/media/profile_pic.png": "/sayanroy/static/media/profile_pic.4187a751fc31c7c9fbea.png",
     "static/media/helvetica-neu.ttf": "/sayanroy/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/sayanroy/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -10,12 +10,12 @@
     "static/media/logo_sub.png": "/sayanroy/static/media/logo_sub.e9f05e519e301a99dd38.png",
     "static/media/CoolveticaRg-Regular.woff2": "/sayanroy/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/sayanroy/index.html",
-    "main.fa0a8ccf.css.map": "/sayanroy/static/css/main.fa0a8ccf.css.map",
-    "main.ee378036.js.map": "/sayanroy/static/js/main.ee378036.js.map",
-    "453.5278e212.chunk.js.map": "/sayanroy/static/js/453.5278e212.chunk.js.map"
+    "main.484ea077.css.map": "/sayanroy/static/css/main.484ea077.css.map",
+    "main.02ae3a72.js.map": "/sayanroy/static/js/main.02ae3a72.js.map",
+    "453.c6583fcb.chunk.js.map": "/sayanroy/static/js/453.c6583fcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0a8ccf.css",
-    "static/js/main.ee378036.js"
+    "static/css/main.484ea077.css",
+    "static/js/main.02ae3a72.js"
   ]
 }
