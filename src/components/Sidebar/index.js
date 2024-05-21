@@ -3,7 +3,7 @@ import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { Link, NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBars, faClose, faEnvelope, faHome, faSuitcase, faUser } from '@fortawesome/free-solid-svg-icons'
+import { faBars, faClose, faEnvelope, faHome, faSuitcase, faUser, faGear, faLightbulb } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react'
 
@@ -39,11 +39,30 @@ const Sidebar = () => {
                     onClick={() => setShowNav(false)}
                     exact='true' 
                     activeclassname='active' 
-                    className='project-link' 
-                    to='/project'
+                    className='journey-link' 
+                    to='/journey'
                 >
                     <FontAwesomeIcon icon={faSuitcase} color='#C8CCCE' />
                 </NavLink>
+                <NavLink 
+                    onClick={() => setShowNav(false)}
+                    exact='true' 
+                    activeclassname='active' 
+                    className='skills-link' 
+                    to='/skills'
+                >
+                    <FontAwesomeIcon icon={faGear} color='#C8CCCE' />
+                </NavLink>
+                <NavLink 
+                    onClick={() => setShowNav(false)}
+                    exact='true' 
+                    activeclassname='active' 
+                    className='project-link' 
+                    to='/project'
+                >
+                    <FontAwesomeIcon icon={faLightbulb} color='#C8CCCE' />
+                </NavLink>
+                
                 <NavLink 
                     onClick={() => setShowNav(false)}
                     exact='true' 

@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "cover": "https://skillslogoportfolio.s3.us-east-2.amazonaws.com/RiteMatch.png",
+            "title": "RiteMatch",
+            "description": "ReactJs, Django, Python, MaterialUI, Machine Learning, NLP",
+            "url": "https://github.com/ray-says/RITE-MATCH"
+        },
+        {
+            "cover": "https://skillslogoportfolio.s3.us-east-2.amazonaws.com/ECG.png",
+            "title": "Cardiac Arrhythmia Diagnosis with Noise Detection Using Neural Network",
+            "description": "Python, Deep Neural Networks, Convolutional Neural Networks, Auto-Encoder",
+            "url": "https://ieeexplore.ieee.org/document/9442622"
+        },
+        {
+            "cover": "https://skillslogoportfolio.s3.us-east-2.amazonaws.com/fifa.png",
+            "title": "Identification of best player cluster",
+            "description": "Python, Expectation Maximization, Principal Component Analysis, Hierarchical Clustering",
+            "url": "https://ieeexplore.ieee.org/document/9442644"
+        }
+    ]
+}
