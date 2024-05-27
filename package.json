@@ -1,7 +1,7 @@
 {
   "name": "ray-port",
   "version": "0.1.0",
-  "homepage": "https://ray-says.github.io/sayanroy/",
+  "homepage": "https://www.sayanray.com/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
